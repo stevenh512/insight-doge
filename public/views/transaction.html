@@ -1,4 +1,4 @@
-<div data-ng-include src="'/views/includes/connection.html'"></div>
+ABBR<div data-ng-include src="'/views/includes/connection.html'"></div>
 <section data-ng-controller="transactionsController" data-ng-init="findThis()">
   <div class="secondary_navbar hidden-xs hidden-sm" scroll data-ng-class="{'hidden': !secondaryNavbar}" data-ng-show="tx.txid" data-ng-init="hideSNavbar=0">
     <div class="container" data-ng-if="!hideSNavbar">
@@ -16,7 +16,7 @@
         </span>
         <span data-ng-show="!tx.confirmations" 
           class="txvalues txvalues-danger" translate>Unconfirmed Transaction!</span>
-        <span class="txvalues txvalues-primary">{{$root.currency.getConvertion(tx.valueOut) || tx.valueOut + ' BTC' }}</span>
+        <span class="txvalues txvalues-primary">{{$root.currency.getConvertion(tx.valueOut) || tx.valueOut + ' DOGE' }}</span>
       </div>
     </div>
     <div class="hide_snavbar">
