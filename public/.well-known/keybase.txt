@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/stevenh512
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dogesight.com
+  * I am stevenh512 (https://keybase.io/stevenh512) on keybase.
+  * I have a public key with fingerprint 08F8 029E 6DE0 3F1B 0177  D9EE B843 E6FD 8D37 FDE9
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "08f8029e6de03f1b0177d9eeb843e6fd8d37fde9",
+            "host": "keybase.io",
+            "key_id": "B843E6FD8D37FDE9",
+            "uid": "afd802c1a919acafed3e692c3f2e9200",
+            "username": "stevenh512"
+        },
+        "merkle_root": {
+            "ctime": 1415485019,
+            "hash": "fde05d84a409967ac108d23044beb515b24b002769846e5222b0d5ec1d0c1735a6c94491fad09b7c8eb84d7a04bddba77c42fc6a45aa081388b89f7452f240aa",
+            "seqno": 93649
+        },
+        "service": {
+            "hostname": "dogesight.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1415485317,
+    "expire_in": 157680000,
+    "prev": "1fbe8cc1ec4e37d5c599086cfc82521f41a8e224d718e0a6484fc3a455cff51b",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+owFVkntMFEccxwGrIJTH1VZAbEO3BGmE687ePk8SBEGRYGkijzSCx+zs7N3K3e1x
+d5ylFINofabhjAJBS1Nqo4FYoZUqIFGsj3g0qZrWghGrxPpAarW29VlodwlN6/w1
+j8/vO9/v/MYfOSMoJLhnyc2Jj7iJseBvx8SgwtXNm2oIUZWqCXMNgewKdnr1mRM6
+MGEmKnC1CD3YqKiJTlXCxjWexGkmlfBht0dRnRpFGjkjRdSm6rheLCtOK3a73Iqu
+RZC8zJOUgFkJkyYZiCTgOEnAWORpE2ZliZdMnCxhQZO0qR7vc7cSU5oWRdJ2szQ+
+h12azWebuKXZOTpfNXUANQ2SQgAKQIAIyljSdAUKmWQKCxRJ6qAHu6cjebzYh502
+Bkw5dmB3hR1b3Ko6FRt5FR0CNGBoniGBoHmCHptWpjkkGYmnIU0KAstBBEheokwk
+TYtYZAAjUrRIkhTHCjzNYoaiKJGUGIyARCLAmRjIIoGmBSBDiRREDvF6fomDJC1K
+kgg5DtGUjFhIMxCSPDDxvMgLMkczlEzRJIRaCA+udKqEWTCxtFCrL90+BWHdtv5u
+0/Ek1Yo9itXmNSLVoRW53KpXRapdO7J5vS6zHtpb7dLRtbhLtEyrWETFKWlt+39f
+gYY+/yAmwKUS+D2X4sYWRScYjuVJbej3YJ+mCWQR8wgBjGhs4iQGMYJA8iySEU8x
+FJBpAHlMUVpywGMSsjRPy8ikpWaQLDNA/C8moDWj0Kp3TLE6obfKjYnarSHzXwgK
+DgmaNTNE/7lB4bNj/v3ORzujJ2L6wKrwxH674e+sxraUP2tKz61q644uv3KE656/
+0rjpQrzvXteRccvIr/299YaIhT2744u/2aiK5xYkPQw0flLqO7vlTiBy/d2Ile2P
+BnPbDUk3dhiyuvLGihINT56y5oqh1tPJZ38LxCrXj8JPSw94Df7BtMj6RROG4Zzm
+8fJbk1+4i4yZROWSFzsO+KhnQ/NSitYttGY6uP1tcyOW71jfbz20cdmkWNQgHc4d
+inqcYR4uGINXessyQpsrj/1wzz7MPBz/rORI25Yr74w3X91nHaz7avQ7f7qtIthx
++9nXS+IWvBmccKPJvntm1tXkxo4Tkxv2Xpv8MqbjePgHd3otNaOhH3Mj99+Yd/nH
+6qgHZwJZr91Z+Ojk+vM21+JXYt9qMTx1lm1z+S8Ze2XL5bwHK06GtxQ3+RIuLN4z
+kvD+jM7jfZ3Xkucbelsbfq56t39WQtOiD/dRZxt2NdzIDNsZf3GdufDi1rtPCsL6
+Wv6I+mnp5o6h0PquU+nb+5oCL6eXWHem9xTE1c/dkbF3z+uHwgrezjjfH2Kz9/lL
+f991auCX/DOB+0HmluLtaZvnDHakXXq2rO7ztd87Rl4NXO9ePvAoLmdowNE2lj6a
+Wx7ZPkh0Xp4oq5uD/rqV6Q/El53uyj9oCL1/wnA763EJXJH0UvTNvA1rCiKGS9Gp
+YVAYlVJ5bLW8v/Xwwdk9ybGj+f8A
+=noi2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stevenh512
+
+==================================================================
